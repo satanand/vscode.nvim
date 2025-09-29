@@ -33,9 +33,11 @@ colors.get_colors = function()
 
             vscDiffRedDark = '#4B1818',
             vscDiffRedLight = '#6F1313',
+            vscDiffRedLightSB = '#FFB699',
             vscDiffRedLightLight = '#FB0101',
             vscDiffGreenDark = '#373D29',
             vscDiffGreenLight = '#4B5632',
+            vscDiffGreenLightSB = '#D6EBAD',
             vscSearchCurrent = '#515c6a',
             vscSearch = '#613315',
 
@@ -111,9 +113,11 @@ colors.get_colors = function()
 
             vscDiffRedDark = '#FFCCCC',
             vscDiffRedLight = '#FFA3A3',
+            vscDiffRedLightSB = '#B33300',
             vscDiffRedLightLight = '#FFCCCC',
             vscDiffGreenDark = '#DBE6C2',
             vscDiffGreenLight = '#EBF1DD',
+            vscDiffGreenLightSB = '#38AD86',
             vscSearchCurrent = '#A8AC94',
             vscSearch = '#F8C9AB',
 
